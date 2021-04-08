@@ -17,13 +17,13 @@ Bachelor of Science in [Chemistry at METU](http://chem.metu.edu.tr/), 2018
 
 ### Links
 - [Scholar](https://scholar.google.com.tr/citations?user=a3M-FyAAAAAJ&hl=en)
-- [Linkedin](linkedin.com/in/cansu-zeytun-karaman)
+- [Linkedin](https://www.linkedin.com/in/cansu-zeytun-karaman/)
 
 ### Publications
 - **Zeytun Karaman C.**, Goker S., Hacioglu S., Haciefendioglu T.,Yildirim E.,Toppare
 L..Altering Electronic and Optical Properties of Novel Benzothiadiazole Comprising Ho-
 mopolymers via Bridges. Journal of Electrochemical Society, 2021. 
-- **Zeytun Karaman C.**, Gker S.,Sahin U., Hacioglu S., Haciefendioglu T., Yildirim E., Cir-
+- **Zeytun Karaman C.**, Goker S.,Sahin U., Hacioglu S.,Aslan Taskaya S., Haciefendioglu T., Yildirim E., Cir-
 pan A.,Toppare L..Efect of Thiophene, 3-Hexylthiophene, Selenophene, and Thieno[3,2-
 b]thiophene Spacers on OPV Device Performance of Novel 2,1,3-Benzothiadiazole Based
 Alternating Copolymers.**(under review in Dyes and Pigments)**

@@ -1,7 +1,7 @@
 ### About
 I am currently working for my Master’s degree in the field of chemistry at [Middle East Technical University (METU)](https://www.metu.edu.tr/), located in Ankara, Turkey. At the same time, I have been working as a teaching assistant since 2019. My thesis focuses on the synthesis and characterization of conjugated polymers and OPV device construction under the supervision of [Prof. Dr. Levent Toppare](https://www.topparegroup.org/prof-dr-levent-toppare). Before that, I received my Bachelor of Science degree with honor in Chemistry department from METU. My research interests include but are not limited to conjugated polymers, photovoltaic devices, and electrochemistry. 
 
-Please click [here](./Cansu_ZeytunKaraman_CV.pdf) for my resume.
+Please click [here](./Cansu_Zeytun_Karaman_CV.pdf) for my resume.
 
 ### Education
 Master of Science in [Chemistry at METU](http://chem.metu.edu.tr/), 2021

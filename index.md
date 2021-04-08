@@ -27,5 +27,5 @@ mopolymers via Bridges. Journal of Electrochemical Society, 2021.
 pan A.,Toppare L..Efect of Thiophene, 3-Hexylthiophene, Selenophene, and Thieno[3,2-
 b]thiophene Spacers on OPV Device Performance of Novel 2,1,3-Benzothiadiazole Based
 Alternating Copolymers.**(under review in Dyes and Pigments)**
--Aykent G., **Zeytun C.**, Marion A., & Ozcubukcu S.. L-Tyr(tBu)-OH: An Outstand-
+- Aykent G., **Zeytun C.**, Marion A., & Ozcubukcu S.. L-Tyr(tBu)-OH: An Outstand-
 ing Low Molecular Weight Organogelator. Scientific Reports, 2019.
